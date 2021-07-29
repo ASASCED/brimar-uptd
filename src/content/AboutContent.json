@@ -1,16 +1,16 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Ligero, durable & seguro",
+  "text": "No hay nada mas importante que tu salud para nosotros.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
+      "title": "Por que Brimar?",
+      "content": "En brimar tenemos instalaciones seguras y recorridos desde donde podras visualizar todo nuestro proceso.",
+      "icon": "logo.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
+      "title": "Por que nuestros cubrebocas?",
+      "content": "Siempre nos aseguramos de tener estandares de calidad los cuales siempre te daran la seguridad de que estas comprando un producto seguro y confiable.",
+      "icon": "mask.svg"
     }
   ]
 }
