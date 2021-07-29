@@ -109,4 +109,9 @@ export const Styles = createGlobalStyle`
     .ant-drawer-content-wrapper {
         width: 300px !important;
     }
+
+    .fb_customer_chat_icon {
+        margin-right: 12em;
+        margin-bottom: .9em;
+    }
 `;
