@@ -111,7 +111,7 @@ export const Styles = createGlobalStyle`
     }
 
     .fb_customer_chat_icon {
-        margin-right: 12em;
-        margin-bottom: .9em;
+        margin-right: 12em !important;
+        margin-bottom: .9em !important;
     }
 `;
